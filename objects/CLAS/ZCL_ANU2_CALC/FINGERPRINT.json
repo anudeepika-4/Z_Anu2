@@ -1,0 +1,62 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZCL_ANU2_CALC=================CCAU.abap",
+   "fingerprint":"GHjDIe8Vaw6ydVEsotP4PXppsaSh1iHzlc42KgU0RZMP/CG7mEqAyNghVFy8wjx2aR7/7zgZYJAEw2NmCVryxA=="
+  },
+  {
+   "name":"CINC ZCL_ANU2_CALC=================CCDEF.abap",
+   "fingerprint":"RZiUsUuXPSLKNIsAHCmUdu8UToxonwPru0upG+62PgK6d5QqbHKYe7sPZUa0/yBjLMorGeGrg+0a6WFnopkdcw=="
+  },
+  {
+   "name":"CINC ZCL_ANU2_CALC=================CCIMP.abap",
+   "fingerprint":"db5q2MIru9ID5fUFwo98muSU3QkXv41AOInFiUUv/DEb3CAwSO9bEstTVqZVeb93KZJKNqoEuW83fdrDBGQvqA=="
+  },
+  {
+   "name":"CINC ZCL_ANU2_CALC=================CCMAC.abap",
+   "fingerprint":"nVCB/xw7Tww1ZX+ILe4MvITnkm2rQuH6lg5RoDODoLBepWvkerJ2W4rZloB+2kzdOlvvplc6av45i2GlWGh9IQ=="
+  },
+  {
+   "name":"CLAS ZCL_ANU2_CALC.asx.json",
+   "fingerprint":"6bPmDIgyRPi96uEYD8E6qn3WwDnRTt+KQ+ukFljJtPpnl8DpGDbnH38KYdXBRznBmD/Wq/141dixJTzo4bsgCA=="
+  },
+  {
+   "name":"CLSD ZCL_ANU2_CALC.abap",
+   "fingerprint":"X6bLLnn9btFKspEYKy9DlJSdAGQOwJ+pz62PpbXVMpZx51xueAEwyqTKgbZB2DQtnHaxL7k+NWlpFtKAx25/4A=="
+  },
+  {
+   "name":"CPRI ZCL_ANU2_CALC.abap",
+   "fingerprint":"/x/8mtzeu0ibe7ekyaPqXkDpBm9vQzE1vq3x+wcOpfpkQ2EbNc0MpHGN+6/EpsRkBiKxGQ5dwxaf9x5S0hUFmQ=="
+  },
+  {
+   "name":"CPRO ZCL_ANU2_CALC.abap",
+   "fingerprint":"CLyuQ+kO60xN1gcDy50mg+RP75/gZTdA5XQGz0uYLcVpZEyQpRa5WVVpj9hnWTX4KQE64FrvpneXxCmbQ65LnQ=="
+  },
+  {
+   "name":"CPUB ZCL_ANU2_CALC.abap",
+   "fingerprint":"4caoZ394jiE3i9M6+yhsxFHCZK/ReZ5kfjwXgN4CPkafCBWo4A7uvqjXed6sjG+8B+PaGWX3xwh1EbGTsAHuEg=="
+  },
+  {
+   "name":"METH ADD.abap",
+   "fingerprint":"LVZu8ZibBdsmzIyG0S5cNwMZBh952ITFbozLMKpt/DsXBLJflWuJbHlW85yniE9BdXhItIR8bFCVZQQbpGiyug=="
+  },
+  {
+   "name":"METH DIVIDE.abap",
+   "fingerprint":"SnK63rUopAfUTZRDApu8e6mTGMxoeHfHps8XwANZjLCVR8Bh0mItOWlDvXhw7omtmEyPfaXDUS55ZNRoH5CCUg=="
+  },
+  {
+   "name":"METH IS_EVEN.abap",
+   "fingerprint":"KrUbFCHqIRJDnFQn1MtBgoTAiiQq+d0K3QOXldwpBTgm/eBNeNvv0DFMtQ0JhLposGudi+/kZne49NeO5ic1GQ=="
+  },
+  {
+   "name":"METH MAX_OF.abap",
+   "fingerprint":"+YNQ4nPtaEFGbJG/QBwJIDq6N+ML5Yes1oHTplJfgTra0X6Y6qBWL/+1KybhXUxGGojNdEyxTVWZ6CoF/5h46g=="
+  },
+  {
+   "name":"REPS ZCL_ANU2_CALC=================CT.abap",
+   "fingerprint":"huyYWcD2C8Sc5MW0xobS354hiTZSD81syRsrcHwXuYUVznsneyXFr1MgL1Lgxsz6OVaXTik9hWgur1i9eX9uFw=="
+  }
+ ],
+ "fingerprintAll":"cw8rqP856ex5ofpPRTcnhYeCuxeZi6UoxgnmqWH1KGUdSZ2KV3f1EgM0rPMJ00F/L0epDx1JDVh1F7NhfNXvBw=="
+}
