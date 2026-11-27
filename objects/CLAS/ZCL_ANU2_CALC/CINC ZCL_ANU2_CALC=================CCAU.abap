@@ -78,7 +78,7 @@ CLASS ltc_calc IMPLEMENTATION.
   METHOD max_second_bigger.
     cl_abap_unit_assert=>assert_equals( act = mo_cut->max_of( iv_a = 2 iv_b = 8 )
                                         exp = 8
-                                        msg = 'Max of 2 and 8 should be 8' ).
+                                        msg = 'Max of 3 and 8 should be 8' ).
   ENDMETHOD.
 
 ENDCLASS.
